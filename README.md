@@ -21,6 +21,14 @@ CaseCobra is a web application built with Next.js and Tailwind CSS that allows u
 - **Backend:**
   - Prisma: ORM for database access and schema management.
   - Zod: TypeScript-first schema validation library.
+ 
+  ## Example
+<img width="1505" alt="1" src="https://github.com/liam1238/casecobra/assets/74408724/ab47bbb3-88e1-42ad-ad93-28ab2c1feb53">
+<img width="1498" alt="2" src="https://github.com/liam1238/casecobra/assets/74408724/82672f30-a887-4821-a850-fcc7268ff052">
+<img width="1507" alt="3" src="https://github.com/liam1238/casecobra/assets/74408724/dc170148-61b3-4029-bed3-72166cb2ef05">
+<img width="1053" alt="4" src="https://github.com/liam1238/casecobra/assets/74408724/a280218e-cdc7-4d3c-a6c5-9cefd864dba6">
+<img width="971" alt="5" src="https://github.com/liam1238/casecobra/assets/74408724/f55feb8c-10df-4ba8-8691-2761f7e9ddc6">
+
 
 ## Getting Started
 
